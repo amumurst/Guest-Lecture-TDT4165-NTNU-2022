@@ -1,0 +1,4 @@
+ADT:
+sum + product
+
+opaque
